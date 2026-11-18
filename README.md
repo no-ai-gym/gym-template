@@ -25,7 +25,7 @@
 ### 1. 내 레포 만들기
 
 1. [템플릿으로 레포 만들기](https://github.com/no-ai-gym/gym-template/generate)를 엽니다.
-2. **Owner**에 본인 계정, **Repository name**에 원하는 이름을 입력합니다.
+2. **Owner**에 no-ai-gym, **Repository name**에 원하는 이름을 입력합니다.
 3. **Create repository**를 누릅니다.
 4. 만든 레포에서 **Code → HTTPS** 주소를 복사합니다.
 
