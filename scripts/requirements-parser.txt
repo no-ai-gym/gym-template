@@ -1,0 +1,3 @@
+# Bundled native grammars: no per-language compiler or runtime downloads.
+tree-sitter-language-pack==0.10.0
+tree-sitter==0.25.2
