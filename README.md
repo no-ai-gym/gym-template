@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="./assets/main.png" alt="NO AI GYM 입구" width="100%" />
+  <img src="https://raw.githubusercontent.com/no-ai-gym/.github/main/assets/main.png" alt="NO AI GYM 입구" width="100%" />
 
   <br />
   <br />
 
-  <img src="./assets/background.png" alt="AI 구현 공장과 NO AI GYM" width="100%" />
+  <img src="https://raw.githubusercontent.com/no-ai-gym/.github/main/assets/background.png" alt="AI 구현 공장과 NO AI GYM" width="100%" />
 
   <br />
   <br />
 
-  <img src="./assets/advantage.png" alt="이점" width="100%" />
+  <img src="https://raw.githubusercontent.com/no-ai-gym/.github/main/assets/advantage.png" alt="이점" width="100%" />
 
   <br />
   <br />
 
-  <img src="./assets/supported-languages.png" alt="지원 언어: Swift, JavaScript, TypeScript, Python, Go, Java, Kotlin, C, C++, C#, Rust, Dart, Ruby" width="100%" />
+  <img src="https://raw.githubusercontent.com/no-ai-gym/.github/main/assets/supported-languages.png" alt="지원 언어: Swift, JavaScript, TypeScript, Python, Go, Java, Kotlin, C, C++, C#, Rust, Dart, Ruby" width="100%" />
 
 </div>
 
@@ -24,10 +24,9 @@
 
 ### 1. 내 레포 만들기
 
-1. [템플릿으로 레포 만들기](https://github.com/no-ai-gym/gym-template/generate)를 엽니다.
-2. **Owner**에 no-ai-gym, **Repository name**에 원하는 이름을 입력합니다.
-3. **Create repository**를 누릅니다.
-4. 만든 레포에서 **Code → HTTPS** 주소를 복사합니다.
+1. [프론트 데스크 회원 등록 링크](https://github.com/no-ai-gym/front-desk/issues/new?template=register.yml)를 열고 **Submit new issue**를 누릅니다.
+2. 봇이 달아준 댓글에서 **조직 초대**와 **레포지토리 초대** 링크 두 개를 눌러 수락합니다.
+3. 생성된 본인 레포(`https://github.com/no-ai-gym/본인아이디`)로 이동해 **Code → HTTPS** 주소를 복사합니다.
 
 터미널에서 아래 명령을 실행합니다. `내-레포-주소`와 `내-레포-이름`은 본인의 값으로 바꿔주세요.
 
