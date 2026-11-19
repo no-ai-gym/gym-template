@@ -24,7 +24,7 @@
 
 ### 1. 내 레포 만들기
 
-1. [프론트 데스크 회원 등록 링크](https://github.com/no-ai-gym/front-desk/issues/new?template=register.yml)를 열고 **Submit new issue**를 누릅니다.
+1. [프론트 데스크 회원 등록 링크](https://github.com/no-ai-gym/front-desk/issues/new?template=register.yml)를 열고 **Create**를 누릅니다.
 2. 봇이 달아준 댓글에서 **조직 초대**와 **레포지토리 초대** 링크 두 개를 눌러 수락합니다.
 3. 생성된 본인 레포(`https://github.com/no-ai-gym/본인아이디`)로 이동해 **Code → HTTPS** 주소를 복사합니다.
 
